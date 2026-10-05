@@ -1,0 +1,11 @@
+# Libraries used by the machine learning notebook
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+feature-engine
+
+# Run the notebook in an IDE or Jupyter kernel
+ipykernel
